@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\momen\\OneDrive\\Desktop\\Unlogy\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27C8DB92-CA40-4148-82F2-AE7C57C3F582}|Unlogy\\Unlogy.csproj|c:\\users\\momen\\onedrive\\desktop\\unlogy\\backend\\unlogy\\data\\seeders\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C8DB92-CA40-4148-82F2-AE7C57C3F582}|Unlogy\\Unlogy.csproj|solutionrelative:unlogy\\data\\seeders\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C8DB92-CA40-4148-82F2-AE7C57C3F582}|Unlogy\\Unlogy.csproj|c:\\users\\momen\\onedrive\\desktop\\unlogy\\backend\\unlogy\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C8DB92-CA40-4148-82F2-AE7C57C3F582}|Unlogy\\Unlogy.csproj|solutionrelative:unlogy\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C8DB92-CA40-4148-82F2-AE7C57C3F582}|Unlogy\\Unlogy.csproj|c:\\users\\momen\\onedrive\\desktop\\unlogy\\backend\\unlogy\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C8DB92-CA40-4148-82F2-AE7C57C3F582}|Unlogy\\Unlogy.csproj|solutionrelative:unlogy\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C8DB92-CA40-4148-82F2-AE7C57C3F582}|Unlogy\\Unlogy.csproj|c:\\users\\momen\\onedrive\\desktop\\unlogy\\backend\\unlogy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C8DB92-CA40-4148-82F2-AE7C57C3F582}|Unlogy\\Unlogy.csproj|solutionrelative:unlogy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Unlogy\\backend\\Unlogy\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Unlogy\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Unlogy\\backend\\Unlogy\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Unlogy\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:47:00.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Unlogy\\backend\\Unlogy\\Data\\Seeders\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "Unlogy\\Data\\Seeders\\DatabaseSeeder.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Unlogy\\backend\\Unlogy\\Data\\Seeders\\DatabaseSeeder.cs",
+              "RelativeToolTip": "Unlogy\\Data\\Seeders\\DatabaseSeeder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA9wBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:41:44.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Unlogy\\backend\\Unlogy\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Unlogy\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Unlogy\\backend\\Unlogy\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Unlogy\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:41:25.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\momen\\OneDrive\\Desktop\\Unlogy\\backend\\Unlogy\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Unlogy\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\momen\\OneDrive\\Desktop\\Unlogy\\backend\\Unlogy\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Unlogy\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:40:34.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
